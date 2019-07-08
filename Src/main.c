@@ -51,7 +51,7 @@ HAL_StatusTypeDef state;
 
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
-
+ //this is just for testing git
 /* USER CODE END PTD */
 
 /* Private define ------------------------------------------------------------*/
